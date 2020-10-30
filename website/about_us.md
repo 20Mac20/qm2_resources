@@ -10,3 +10,7 @@ Hi - I'm Joy, a second-year BASc student majoring in Sciences and Engineering an
 I've grown up in many countries, including China, France, the UAE and Norway.
 
 Most of my modules are related to Mathematics and Physics, other than that some activities that I enjoy are figure skating, baking and illustration.
+
+# Macrina
+Hiya I'm Macrina and I'm a societies major with minor in Health and Environment. 
+My big love is politics, but this year I'm branching out BASc-style and taking a more quantitative route - with data science and neuroscience- that I'm hoping to apply to my understanding of political systems, campaigns, and ideologies. 
